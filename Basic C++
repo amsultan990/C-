@@ -1,0 +1,16 @@
+#include<iostream>
+using namespace std;
+int main(){
+    //inputs
+    int a = 10;
+    float b = 20.5;
+    double c = a + b;
+    char d = 'A';
+
+    //outputs
+    cout << "Number you entered is :" <<a<<endl;
+    cout << "Float you entered is :" <<b<<endl;
+    cout << "Double value is :" <<c<<endl;
+    cout << "Character you entered is :" <<d<<endl;
+
+}
