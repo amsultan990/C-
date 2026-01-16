@@ -1,0 +1,7 @@
+// This is C++ Program
+#include<iostream>
+using namespace std;
+int main(){
+    //this is comment
+    cout<<"hello world"<<endl;
+}
