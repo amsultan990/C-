@@ -1,0 +1,10 @@
+/*My name is Ali Mustansir Sultan
+Iam using online Compiler C++ program*/
+
+#include<iostream>
+using namespace std;
+int main(){
+    /*this is comment and 
+    Iam printing Hello World*/
+    cout<<"hello world"<<endl;
+}
