@@ -1,0 +1,17 @@
+//online C++ Program for finding area of Rectangle
+#include<iostream>
+using namespace std;
+int main(){
+    
+    int Length = 10 ;
+    int Width = 5 ;
+    int area = Length * Width;
+    
+    //printing varaibles
+    cout<<" Length: " <<Length<<endl;
+    cout<<" Width: " <<Width<<endl;
+    cout<<" Area: " <<area<<endl;
+    
+    return 0;
+    
+}
