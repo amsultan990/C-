@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+int main(){
+    
+    //Student Data
+    int StudentID =2327;
+    string StudentName = "Ajmal Karim";
+    float StudentGPA =2.75;
+    char StudentGrade = 'b';
+
+    //Output Student Data
+    cout<< "Student ID:" << StudentID << endl;
+    cout<< "Student Name:" << StudentName << endl;
+    cout<< "Student GPA:" << StudentGPA << endl;
+    cout<< "Student Grade:" << StudentGrade << endl;
+
+    return 0;
+
+
+
+}
