@@ -1,0 +1,14 @@
+// User Iuput 
+#include<iostream>
+using namespace std;
+int main(){
+    int x,y;
+    cout<<"Enter a number:";
+    cin>>x;
+    cout<<"Enter another number:";
+    cin>>y;
+    //ADDING
+    int sum = x+y;
+    cout<<" Sum of two number is equal to " <<sum<<endl;
+    return 0;
+}
