@@ -1,0 +1,17 @@
+// Online C++ compiler to run C++ program  math program
+#include<iostream>
+#include<cmath>
+using namespace std;
+int main(){
+    //print maximum value
+    cout<< max(5,10)<<endl;
+    //print minimum value
+    cout<< min(5,10)<<endl;
+    //square root
+    cout<< sqrt(9)<<endl;
+    //rounds a number
+    cout<< round(2.6)<<endl;
+    //natural logrithm
+    cout<< log(2);
+    return 0;
+}
