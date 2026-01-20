@@ -1,0 +1,12 @@
+// Online C++ compiler to run C++ program  math program
+#include<iostream>
+#include<cmath>
+using namespace std;
+int main(){
+    int x = 5;
+    int y = 6;
+    //printing maximum value
+    cout<< max(x,y)<<endl;
+    //printing minimum value
+    cout<< min(x,y);
+}
