@@ -1,0 +1,19 @@
+//C++ program using Comment
+#include<iostream>
+using namespace std;
+int main(){
+    //varaible Addition
+    int x = 10;
+    int y = 5;
+    int sum  = x + y;
+    cout<<"Sum of x and y is equal to " <<sum<<endl;
+    //variable Subtraction
+    int sub = x - y;
+    cout<<"Subtraction of y from x is equal to " <<sub<<endl;
+    //varaibles Multiplication
+    int mult = x * y;
+    cout<<"Multiplication of x and y is equal to " <<mult<<endl;
+    int divid = x / y;
+    cout<<"x divide by y is equal to " <<divid<<endl;
+    return 0;
+}
