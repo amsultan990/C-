@@ -1,0 +1,8 @@
+// Online C++ compiler to run C++ program (logical operators)
+#include<iostream>
+using namespace std;
+int main(){
+    int x = 5 ;
+    int y = 10 ;
+    cout<< (x > 4 || x > 10);
+}
