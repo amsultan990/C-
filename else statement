@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int age = 10 ;
+    if(age > 11)
+    cout<<"Ali";
+    else
+    cout<<"Nawazish";
+}
+//Output: Nawazish
