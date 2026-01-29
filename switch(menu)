@@ -1,0 +1,29 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int choice;
+    cout<<"MENU:"<<endl;
+    cout<<"1.For 1 Zinger Burgur"<<endl;
+    cout<<"2.For 1 Cheese Burgur"<<endl;
+    cout<<"3.For 1 Smash Burgur"<<endl;
+    cout<<"4.For EXIST"<<endl;
+    cout<<"Please enter your's Choice;"<<endl;
+    cin>>choice;
+    switch(choice){
+        case 1:
+        cout<<"Zinger Burgur";
+        break;
+        case 2:
+        cout<<"Cheese Burgur";
+        break;
+        case 3:
+        cout<<"Smash Burgur";
+        break;
+        case 4:
+        cout<<"EXIST!";
+        default:
+        cout<<"Invalid choice.";
+        
+    }
+    
+}
