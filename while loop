@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main(){
+    int i = 0;
+    while(i<=5)/*condition*/{
+        //code block to be execute if condition is true
+    cout<<i<<endl;
+    i++;
+        
+    }
+    return 0;
+}
